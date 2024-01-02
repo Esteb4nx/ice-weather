@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: Server
+Class-Path: file:/home/magister/.gradle/caches/modules-2/files-2.1/com.z
+ eroc/ice/3.7.10/ca45473c5e197ace9510c4718fe2dfa4d3fdba29/ice-3.7.10.jar
+  file:/home/magister/.gradle/caches/modules-2/files-2.1/org.json/json/2
+ 0210307/528c8df3757e8bcf151817b1d7b9b434f6aa08d5/json-20210307.jar
+
